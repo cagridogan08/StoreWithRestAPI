@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <_PublishTargetUrl>C:\Users\Çağrı\source\repos\StoreApi\StoreApi\bin\Release\net5.0\publish\StoreApiPublish</_PublishTargetUrl>
+    <History>True|2021-12-21T14:43:07.1445919Z;True|2021-12-21T17:30:01.1979137+03:00;True|2021-12-21T17:28:06.2368651+03:00;</History>
+  </PropertyGroup>
+</Project>
