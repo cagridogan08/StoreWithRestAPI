@@ -13,7 +13,7 @@ namespace StoreApi.Controllers
     [ApiController]
     public class ProductController : ControllerBase
     {
-        string connectionString = "Data Source=SQL5109.site4now.net;Initial Catalog=db_a7df17_store;User Id=db_a7df17_store_admin;Password=Cagri.dogan1;Integrated Security=False;TrustServerCertificate=True;";
+        string connectionString = "Database Connection String";
 
         [HttpGet]
         public IEnumerable<Product> GetProducts()
